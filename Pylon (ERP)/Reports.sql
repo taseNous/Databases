@@ -1,3 +1,7 @@
+--In this file, I am presenting some of the reports I did for the customers' needs. 
+
+---------------------------------------------------------------------------------------
+
 --Items
 
 SELECT 
